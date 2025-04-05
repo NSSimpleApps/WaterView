@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		CE2A91462DA0D21B008559D7 /* WaterView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE2A91992DA0D993008559D7 /* WaterView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WaterView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +46,7 @@
 		CE2A913D2DA0D21B008559D7 = {
 			isa = PBXGroup;
 			children = (
+				CE2A91992DA0D993008559D7 /* WaterView.png */,
 				CE2A91482DA0D21B008559D7 /* WaterView */,
 				CE2A91472DA0D21B008559D7 /* Products */,
 			);
